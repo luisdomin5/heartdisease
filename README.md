@@ -1,5 +1,5 @@
 # heartdisease
 
-Used Logistic Regression and KNN to Predict if a patient has a heart disease using KNN and Logistic regression (Python)
+Used Logistic Regression and KNN to Predict if a patient has a heart disease.(Python)
 
-Obtained the model with better Accuracy.
+Used the model with better the Accuracy on test data.
